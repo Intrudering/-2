@@ -1,0 +1,14 @@
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.csproj.AssemblyReference.cache
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.AssemblyInfo.cs
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\очередняра\bin\Debug\netcoreapp3.1\очередняра.exe
+C:\Users\adm\source\repos\очередняра\bin\Debug\netcoreapp3.1\очередняра.deps.json
+C:\Users\adm\source\repos\очередняра\bin\Debug\netcoreapp3.1\очередняра.runtimeconfig.json
+C:\Users\adm\source\repos\очередняра\bin\Debug\netcoreapp3.1\очередняра.runtimeconfig.dev.json
+C:\Users\adm\source\repos\очередняра\bin\Debug\netcoreapp3.1\очередняра.dll
+C:\Users\adm\source\repos\очередняра\bin\Debug\netcoreapp3.1\очередняра.pdb
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.dll
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.pdb
+C:\Users\adm\source\repos\очередняра\obj\Debug\netcoreapp3.1\очередняра.genruntimeconfig.cache
